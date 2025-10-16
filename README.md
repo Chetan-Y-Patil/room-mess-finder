@@ -3,7 +3,7 @@
 
 
 
-# 🏡 RoomNMeal - Student Accommodation & Services Platform
+# 🏡 room-mess-finder - Student Accommodation & Services Platform
 
 A comprehensive MERN stack web application for students to book rooms, subscribe to mess services, and access additional amenities in college towns.
 
